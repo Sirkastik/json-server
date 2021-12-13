@@ -773,27 +773,6 @@
 				}
 			],
 			"id": 25
-		},
-		{
-			"subject": "Logan",
-			"action": "liked",
-			"pronoun": "Louella's",
-			"object": "profile photo",
-			"date": 1639431763977,
-			"likes": [],
-			"comments": [],
-			"id": 26
-		},
-		{
-			"subject": "Matthew",
-			"action": "commented on",
-			"pronoun": "Louella's",
-			"object": "profile photo",
-			"text": "I like the white. So pure...",
-			"date": 1639431809063,
-			"likes": [],
-			"comments": [],
-			"id": 27
 		}
 	]
 }
