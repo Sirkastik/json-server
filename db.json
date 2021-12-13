@@ -609,35 +609,11 @@
 			"subject": "Nadeshda",
 			"action": "liked",
 			"pronoun": "Enni's",
-			"object": "status",
-			"content": "text",
-			"date": 1638815317714,
-			"likes": [],
-			"comments": [],
-			"text": "Hey there guys🙋🏽‍♀️",
-			"id": 9
-		},
-		{
-			"subject": "Nadeshda",
-			"action": "liked",
-			"pronoun": "Enni's",
 			"object": "profile photo",
 			"date": 1638815319861,
 			"likes": [],
 			"comments": [],
 			"id": 10
-		},
-		{
-			"subject": "Nadeshda",
-			"action": "liked",
-			"pronoun": "Jessie's",
-			"object": "status",
-			"content": "text",
-			"date": 1638815321086,
-			"likes": [],
-			"comments": [],
-			"text": "Heey... Jessie Sanchez here🤪",
-			"id": 11
 		},
 		{
 			"subject": "Nadeshda",
@@ -771,16 +747,6 @@
 			"id": 22
 		},
 		{
-			"subject": "سینا",
-			"action": "liked",
-			"pronoun": "his",
-			"object": "profile photo",
-			"date": 1638815585921,
-			"likes": [],
-			"comments": [],
-			"id": 23
-		},
-		{
 			"subject": "Louella",
 			"action": "updated",
 			"pronoun": "her",
@@ -799,9 +765,35 @@
 			"object": "profile photo",
 			"link": "https://images.unsplash.com/photo-1468817967762-7af5be2aacf5?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8d29tYW4_ZmFjZXx8fHx8fDE2Mzg4MTU2NjY&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600",
 			"date": 1638815667596,
+			"likes": ["Logan"],
+			"comments": [
+				{
+					"user": "Matthew",
+					"comment": "I like the white. So pure..."
+				}
+			],
+			"id": 25
+		},
+		{
+			"subject": "Logan",
+			"action": "liked",
+			"pronoun": "Louella's",
+			"object": "profile photo",
+			"date": 1639431763977,
 			"likes": [],
 			"comments": [],
-			"id": 25
+			"id": 26
+		},
+		{
+			"subject": "Matthew",
+			"action": "commented on",
+			"pronoun": "Louella's",
+			"object": "profile photo",
+			"text": "I like the white. So pure...",
+			"date": 1639431809063,
+			"likes": [],
+			"comments": [],
+			"id": 27
 		}
 	]
 }
